@@ -11,5 +11,4 @@ A REST API to read and analyze log files.
 ## Run Locally
 
 ```bash
-pip3 install -r requirements.txt
 python3 app.py
